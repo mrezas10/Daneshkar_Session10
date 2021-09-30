@@ -1,20 +1,20 @@
-// function max(first , second) {
-//     if (first > second)
-//         return first;
-//     else
-//         return second;
-// }
-// function max2 (a , b) {
-//     return a > b ? a : b;
-// }
-//
-// let num1 = 5
-// let num2 = 10
-// console.log(max(num1, num2))
-//
-// num1 = 7
-// num2 = 2
-// console.log(max2(num1, num2))
+function max(first , second) {
+    if (first > second)
+        return first;
+    else
+        return second;
+}
+function max2 (a , b) {
+    return a > b ? a : b;
+}
+
+let num1 = 5
+let num2 = 10
+console.log(max(num1, num2))
+
+num1 = 7
+num2 = 2
+console.log(max2(num1, num2))
 
 //////////////////////////////////////////////////////////////////////////////////////////////////
 
